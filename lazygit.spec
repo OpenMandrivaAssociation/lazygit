@@ -3,7 +3,7 @@
 
 Name:           lazygit
 Summary:        A simple terminal UI for git commands
-Version:        0.58.0
+Version:        0.58.1
 Release:        1
 
 %global tag     v%{version}
